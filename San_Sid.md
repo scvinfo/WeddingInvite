@@ -57,7 +57,8 @@ After successful deployment, we invite you for a **Feature Launch Party (Recepti
 
 ### 1.5.3 🎊 Reception Info
 - **Date**: 22 April 2025  
-- **Venue**: Nunguluru Convention Hall, Eluru
+- **Venue**: Nunguluri Convention Hall, Eluru
+- **Contact**: 9397120005, 7981613209
 
 ### 1.5.4 🥳 You're Invited!
 - No RSVP endpoint needed — just show up with good vibes, love, and energy!
