@@ -1,0 +1,39 @@
+@startuml
+title **Blockbuster Wedding Invitation**
+
+participant "Siddhartha" as Groom
+participant "Sandhya" as Bride
+participant "Padmavathi Convention Hall, Dowleswaram" as WeddingVenue
+participant "Nunguluru Convention Hall, Eluru" as ReceptionVenue
+participant "Panchangam" as Time
+database "Matrimony" as Matrimony
+actor "Beloved Guests" as Guests
+
+== Scene 1: Match Made in Heaven ==
+Bride -> Matrimony : Uploads Love Profile
+Groom -> Matrimony : Oct 2024 - Searches for True Love
+Matrimony --> Groom: Nov 17 - Match Found!
+Groom -> Bride: You're the one!
+
+== Scene 2: Wedding Configuration ==
+Bride -> WeddingVenue: Books the epic wedding venue
+Groom -> Time : Consults for the perfect 'muhurtham'
+Time -> WeddingVenue : Locks the date - 20 April 2025 at 8:28 PM
+
+== Scene 3: Grand Wedding Ceremony ==
+WeddingVenue -> Guests : You're cordially invited!
+Guests -> WeddingVenue : RSVP with joy
+WeddingVenue -> Guests: Welcomes with floral vibes
+WeddingVenue -> Guests: Rolls out the red carpet
+Guests -> Bride : Sends best wishes 💐
+Guests -> Groom : Sends best wishes 🎉
+Guests -> Bride & Groom : Showers blessings and love 💖
+Bride -> Groom : Exchanges vows & radiant smiles
+
+== Scene 4: The Reception Sequel ==
+ReceptionVenue -> Guests : Join us once again!
+ReceptionVenue -> Guests : 22 April 2025, Eluru Evening 7 PM
+ReceptionVenue -> Bride : Ready for Round 2?
+ReceptionVenue -> Groom : Don’t forget your dance moves!
+
+@enduml
