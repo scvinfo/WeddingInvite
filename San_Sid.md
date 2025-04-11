@@ -48,7 +48,7 @@ After successful deployment, we invite you for a **Feature Dinner Party (Recepti
 
 ### 1.5.1 💑 The Couple
 - Siddhartha ❤️ Sandhya  
-- A match made in Matrimony DB, confirmed with a heartwarming `200 OK`.
+- A match made in Hyderabad, confirmed with a heartwarming `200 OK`.
 
 ### 1.5.2 📅 Wedding Details
 - **Date**: 20 April 2025  
