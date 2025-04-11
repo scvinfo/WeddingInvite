@@ -29,7 +29,7 @@ After rigorous compatibility testing, countless late-night debugging sessions, a
 
 ## 1.3 🎉 Post-Deployment Celebration
 
-After successful deployment, we invite you for a **Feature Launch Party (Reception)**:
+After successful deployment, we invite you for a **Feature Dinner Party (Reception)**:
 
 - **Date**: 22 April 2025  
 - **Location**: Nunguluru Convention Hall, Eluru  
