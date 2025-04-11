@@ -11,7 +11,7 @@ After rigorous compatibility testing, countless late-night debugging sessions, a
   A resilient, reliable Java-based service trying to hit a once-in-a-lifetime API: **Marriage**.
 
 - **Bride (Service Provider)**: Sandhya  
-  Elegant, graceful, and highly scalable — the one who acknowledged the API request with a 💖 `200 OK`.
+  Elegant, graceful, caring and highly scalable — the one who acknowledged the API request with a 💖 `200 OK`.
 
 ---
 
