@@ -1,4 +1,4 @@
-# 1. 💍 Blockbuster Wedding Invitation 💐
+# 1. 💍 Wedding Invitation 💐
 
 We’re thrilled to announce the most awaited **production deployment** of our lives!  
 After rigorous compatibility testing, countless late-night debugging sessions, and a perfect match from our beloved Matrimony DB — it’s finally happening!
